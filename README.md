@@ -2,8 +2,8 @@
 
 `cuniform-heavy`
 
-![cuniform heavy font](cuniform-heavy-table-10-14.png)
+![cuniform heavy font demo](heavy-demo.png)
 
 `cuniform-light`
 
-![cuniform light font](cuniform-light-table-10-14.png)
+![cuniform light font demo](light-demo.png)
